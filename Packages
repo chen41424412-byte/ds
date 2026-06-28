@@ -9,7 +9,7 @@ Size: 33062
 MD5sum: d1c20abbd2487fe89c0d0a7f79601248
 SHA256: a352af6f32287cd6c85d1775cf4e0272ca451512090a794d102d38d001e3b4af
 Section: Tweaks
-Description: 抖音多功能插件 - 卡片发送 + 一键拉人 + 统一开关面板
+Description: dy插件，内部工具
 Author: chen41424412
 
 Package: preferenceloader
