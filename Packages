@@ -1,1 +1,28 @@
-﻿
+Package: com.douyin.plus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: chen41424412
+Name: 抖音++
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.douyin.plus_1.0_iphoneos-arm.deb
+Size: 33062
+MD5sum: d1c20abbd2487fe89c0d0a7f79601248
+SHA256: a352af6f32287cd6c85d1775cf4e0272ca451512090a794d102d38d001e3b4af
+Section: Tweaks
+Description: 抖音多功能插件 - 卡片发送 + 一键拉人 + 统一开关面板
+Author: chen41424412
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm
+Maintainer: rpetrich
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_2.2.6_iphoneos-arm.deb
+Size: 36414
+MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
+Section: System
+Description: Load preferences in Settings
+Author: Ryan Petrich
+
