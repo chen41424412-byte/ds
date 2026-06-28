@@ -1,15 +1,15 @@
-Package: com.douyin.plus
+Package: com.ds.plus
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: chen41424412
-Name: 抖音++
+Name: DS Plus
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.douyin.plus_1.0_iphoneos-arm.deb
-Size: 33062
-MD5sum: d1c20abbd2487fe89c0d0a7f79601248
-SHA256: a352af6f32287cd6c85d1775cf4e0272ca451512090a794d102d38d001e3b4af
+Size: 32654
+MD5sum: c536f67f0e76fc6b96eac0b5969cbd61
+SHA256: 615660845c2d8d22d943db7f9d3d4908aec686cc5c4439c34a723662df9fbceb
 Section: Tweaks
-Description: dy插件，内部工具
+Description: Utility tweak
 Author: chen41424412
 
 Package: preferenceloader
@@ -25,4 +25,3 @@ SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
 Section: System
 Description: Load preferences in Settings
 Author: Ryan Petrich
-
