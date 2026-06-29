@@ -5,9 +5,9 @@ Maintainer: chen41424412
 Name: DS Plus
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.douyin.plus_1.0_iphoneos-arm.deb
-Size: 32654
-MD5sum: c536f67f0e76fc6b96eac0b5969cbd61
-SHA256: 615660845c2d8d22d943db7f9d3d4908aec686cc5c4439c34a723662df9fbceb
+Size: 33014
+MD5sum: 368fb2e978640631225be2121bc37fd3
+SHA256: 54b4b83df5dc9960a10be2ce9659a6ba7cd8dd07ab15eb609e55eb350e647d82
 Section: Tweaks
 Description: Utility tweak
 Author: chen41424412
